@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A GitHub App built with probot that celebrates new user activity within your repository.
 
 ## What it does
 
-A GitHub App built with probot that celebrates new user activity within your repository.
+This bot welcomes users.
 
 ## Getting started
 
