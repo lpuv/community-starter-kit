@@ -4,7 +4,7 @@ DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-The welcome bot welcomes users.
+A GitHub App built with probot that celebrates new user activity within your repository.
 
 ## Getting started
 
