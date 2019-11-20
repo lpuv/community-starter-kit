@@ -4,7 +4,7 @@ DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The welcome bot welcomes users.
 
 ## Getting started
 
